@@ -171,7 +171,7 @@ client.on('ready',  () => {
 
 
 
-const developers = ["id","id"]
+const developers = ["505657060420091925","id"]
 
 client.on('message', message => {
 
